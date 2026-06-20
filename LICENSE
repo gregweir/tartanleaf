@@ -2,17 +2,29 @@ MIT License
 
 Copyright (c) 2026 gregweir
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Tartanleaf Publications Resource Hub
+
+This repository contains links, references, and metadata about Tartanleaf 
+books and resources. The books themselves are copyrighted and available 
+for purchase at https://www.tartanleaf.com.
+
+You are free to:
+- Link to this repository
+- Reference it in documentation
+- Fork it to create your own resource lists
+
+You may NOT:
+- Redistribute book content
+- Remove attribution
+- Imply endorsement
+
+All book content, cover images, and proprietary materials remain the 
+intellectual property of Greg Weir and Tartanleaf.
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the content.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
