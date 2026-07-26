@@ -6,7 +6,7 @@ Practical technology guides for real people. No jargon, just results.
 
 - **[Bitcoin Mining with Bitaxe](https://www.tartanleaf.com/bitcoin-mining-with-bitaxe/)** — The complete guide to open-source ASIC mining at home
 - **[Smart Tech for Real People](https://www.tartanleaf.com/smart-tech/)** — 12 practical guides covering smart homes, networking, privacy, AI, and self-hosting
-- **[RadioBook](https://www.tartanleaf.com/radiobook/)** — Amateur radio learning with 5 books and 12 interactive browser games
+- **[RadioBook](https://www.tartanleaf.com/radiobook/)** — Amateur radio learning with 5 books, Canadian and American answer guides, and 12 interactive browser games
 
 ## Free Resources
 
