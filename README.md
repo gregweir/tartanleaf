@@ -35,6 +35,7 @@ Tartanleaf tools emphasize understandable results, local control and explicit li
 
 - [HomeNetCheck](https://github.com/gregweir/HomeNetCheck) — one-button home-network checks with plain-language results
 - [homenet](https://github.com/gregweir/Home-Network-Troubleshooter) — command-line home-network diagnostics and explanations
+- [homeHash](https://github.com/gregweir/homeHash) — free, open-source, early-development Bitaxe monitoring; recorded tests cover Gamma 601 and Gamma Turbo, while other-device testing is welcome without confirmed compatibility; see the [baseline walkthrough](https://www.tartanleaf.com/bitcoin-mining-with-bitaxe-updates/#homehash-baseline)
 - [Tech Passport](https://github.com/gregweir/tech-passport) — local-first personal technology and recovery planning
 - [AI Engine Room](https://github.com/gregweir/ai-engine-room) — bounded observations and explanations for supported local-AI runtimes
 - [Open Lobby Board](https://github.com/gregweir/open-lobby-board) — self-hosted local-first information display for hotels and inns
