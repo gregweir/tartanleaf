@@ -11,7 +11,7 @@ Tartanleaf.com Inc. publishes practical, technically grounded books and maintain
 
 ### Smart Tech for Real People
 
-Practical technology guides for everyday readers. [Home Networking](https://www.tartanleaf.com/smart-tech/home-networking/), [Tech for Seniors](https://www.tartanleaf.com/smart-tech-for-seniors/) and [Digital Literacy](https://www.tartanleaf.com/smart-tech/digital-literacy/) are available now. Scam Safety is scheduled for October 2026.
+Practical technology guides for everyday readers. [Home Networking](https://www.tartanleaf.com/smart-tech/home-networking/), [Tech for Seniors](https://www.tartanleaf.com/smart-tech-for-seniors/), [Digital Literacy](https://www.tartanleaf.com/smart-tech/digital-literacy/) and Scam Safety are available now. See the [Books by Greg Weir catalogue](https://www.tartanleaf.com/books/) for current format and retailer availability.
 
 [Explore the Smart Tech for Real People series](https://www.tartanleaf.com/smart-tech/)
 
