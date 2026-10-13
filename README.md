@@ -57,5 +57,5 @@ The website is the definitive source for current titles, format-specific ISBNs, 
 - Publisher: [Tartanleaf.com Inc.](https://www.tartanleaf.com/#organization)
 - Book catalogue: [Books by Greg Weir](https://www.tartanleaf.com/books/)
 
-Repository information last reviewed October 10, 2026.
+Repository information last reviewed October 13, 2026.
 
